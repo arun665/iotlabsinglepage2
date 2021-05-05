@@ -1,0 +1,65 @@
+#Div7{
+
+    @media screen and (max-width:576px) {
+        
+        
+#div{
+    text-align:left;
+    float:left;
+
+    width:90%;
+    padding:4%;
+    background-color: #F1F7FF;
+    h1{
+        font-size:3em;
+        text-align:left;
+    }
+    p{
+        font-size:2em;
+    }
+    #img{
+        width:100%;
+    }
+}
+
+
+
+
+#insidediv{
+    margin-top:8%;
+        #img{
+            width:10%;
+            float:left;
+        }
+        h1{
+            font-size:2em;
+            margin-left:10%;
+        }
+    }
+    
+    
+    #divlist{
+        margin-left:8%;
+        p{
+            font-size:1.3em;
+            color:grey;
+        }
+        h3{
+            font-size:1.8em;
+        }
+    }
+    
+    #divinsidelist{
+        margin-top:3%;
+        #img{
+            width:7%;
+        }
+        p{
+    font-size:1.3em;
+    margin-left:10%;   
+    }
+    }
+
+
+    }
+}

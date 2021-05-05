@@ -1,0 +1,44 @@
+#Div4{
+    margin-top:4%;
+    #form{
+        position: fixed;
+    width:40%;;
+        }
+        
+    #divider{
+        border-top:12px solid #51C4D3;
+        border-radius:10px;
+        float:left;text-align: left;
+   
+        width:20%;
+
+    }
+    #div{
+        width:100%;
+        text-align:left;
+        margin-left:5%;
+    }
+        h1{
+            width:100%;
+            float:left;
+            font-size:4em;
+        }
+        p{
+            margin-top:2%;
+            width:100%;
+            font-size:2em;
+        color:gray;
+        }
+        #img{
+            width:100%;
+        
+    }
+    hr{
+        background-color: black;;
+    }
+
+}
+
+body{
+    background-color: #E9E9E9;
+}

@@ -1,0 +1,110 @@
+#Div1{
+background-color: #F1F7FF;
+    margin-top:2%;
+  
+
+    div{
+        margin-left:auto;
+        margin-right: auto;
+        width:100%;
+    }
+
+    #quotation{
+        width:10%;
+        float:left;
+        margin:0px;
+    }
+    legend.scheduler-border {
+        width:inherit; /* Or auto */
+        padding:0 10px; /* To give a bit of padding on the left and right */
+        border-bottom:none;
+    }
+    #fieldset-text{
+        text-align:left;
+        padding:3%;
+        p{
+            font-size:1.2em;
+        }
+    
+    }
+
+
+    #insidediv{
+        width:98%;
+     
+        margin-left:auto;
+        margin-right: auto;
+border:2px solid black;
+border-radius:20PX;
+
+min-height: 28vh;
+background-color: white;;
+    }
+    fieldset.div-border {
+        border: solid 1px #DDD !important;
+        padding: 0 10px 10px 10px;
+        border-bottom: none;
+    }
+    
+    #form{
+        position: fixed;
+    width:40%;;
+        }
+    legend.div-border {
+        width: auto !important;
+        border: none;
+        font-size: 14px;
+    }
+    .border{
+        border:1px solid black;
+    }
+    #iitrpr{
+        margin-top:10%;
+        float:left;
+        text-align: left;
+    }
+    #row2{
+        width:80%;
+        margin-top:5%;
+        float: left;
+        margin-left:0%;
+    }
+
+    #divider{
+        border-top:12px solid #51C4D3;
+        border-radius:10px;
+        float:left;text-align: left;
+        margin-left:2%;
+        width:30%;
+    }
+    #kit{
+        width:80px;
+    }
+    #table{
+        float:left;
+        text-align: left;
+        padding:0px;
+        margin:3%;
+    }
+    #tabletext{
+        text-align: left;
+    }
+
+
+
+    
+@media screen  and (min-width:576px){
+    
+    #phoneform{
+        display: none;;
+    }
+
+}
+
+}
+
+
+html,body{
+    height: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+}

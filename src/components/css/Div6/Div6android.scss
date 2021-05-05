@@ -1,0 +1,36 @@
+#Div6{
+
+    @media screen and (max-width:576px) {
+        #div{
+            text-align:left;
+            margin-left:5%;
+            h1{
+                font-size:3em;
+            }
+            p{
+                font-size:1.5em;
+            }
+       
+        }   
+    #insiderow{
+        width:100%;
+       
+        img{
+            width:60%;
+           margin-left: 20%;;
+        }
+        #table{
+            margin-top:6%;
+        border-collapse: separate;
+            border-spacing: 1px;;
+            background-color: white;
+        border-radius:10px;
+        padding:5%;
+        text-align:left;
+        float:left;
+
+        }
+    }
+
+    }
+}

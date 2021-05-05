@@ -1,0 +1,21 @@
+#Div2{
+
+    @media screen and (max-width:576px){
+
+        #div{
+            text-align:left;
+            margin-left:5%;
+            width:90%;
+            h1{
+                font-size:3em;
+            }
+            p{
+                font-size:1.5em;
+            }
+            #img{
+           
+                width:100%;
+            }
+        }
+    }
+}
